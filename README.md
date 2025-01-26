@@ -96,13 +96,4 @@ The dependencies for the frontend and backend are listed in their respective `pa
 (Contributions are welcome, but guidelines should be added here)
 
 
-## Testing
-
-(Testing procedures should be described here)
-
-## License
-
-ISC License (See backend/LICENSE)
-
-
 *README.md was made with [Etchr](https://etchr.dev)*
